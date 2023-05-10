@@ -55,6 +55,7 @@ CUDA_VISIBLE_DEVICES=0 python tasks/run.py --exp_name alignsts --infer --hparams
 ## Acknowledgements
 This implementation uses parts of the code from the following Github repos:
 [NATSpeech](https://github.com/NATSpeech/NATSpeech),
+[DiffSinger](https://github.com/MoonInTheRiver/DiffSinger),
 [ProDiff](https://github.com/Rongjiehuang/ProDiff),
 [SpeechSplit2](https://github.com/biggytruck/SpeechSplit2)
 as described in our code.
