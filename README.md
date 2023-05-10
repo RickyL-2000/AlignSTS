@@ -30,7 +30,8 @@ You can use pretrained models we provide in [here](https://drive.google.com/file
 A suitable [conda](https://conda.io/) environment named `alignsts` can be created and activated with:
 
 ```
-conda env create -f environment.yaml
+conda create -n alignsts python=3.8
+conda install --yes --file requirements.txt
 conda activate alignsts
 ```
 
