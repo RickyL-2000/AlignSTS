@@ -18,7 +18,7 @@ Visit our [demo page](https://alignsts.github.io/) for audio samples.
 We provide an example of how you can generate high-quality samples using AlignSTS.
 
 ### Pretrained Models
-You can use pretrained models we provide. Details of each folder are as in follows:
+You can use pretrained models we provide in [here](https://drive.google.com/file/d/1hKesxqkbrBKC06eYLmlCutPathdJLCK1/view?usp=sharing). Details of each folder are as in follows:
 
 | Model       | Discription                                                              | 
 |-------------|--------------------------------------------------------------------------|
@@ -36,7 +36,7 @@ conda activate alignsts
 
 ### Test samples
 
-We provide a mini-set of test samples to demonstrate AlignSTS. Specifically, we provide samples of WAV format combining the corresponding statistical files which is for faster IO. Please download the statistical files at `data/binary/speech2singing-testdata/`, while the WAV files are for listening.
+We provide a mini-set of test samples to demonstrate AlignSTS in [here](https://drive.google.com/file/d/1hKesxqkbrBKC06eYLmlCutPathdJLCK1/view?usp=sharing). Specifically, we provide samples of WAV format combining the corresponding statistical files which is for faster IO. Please download the statistical files at `data/binary/speech2singing-testdata/`, while the WAV files are for listening.
 
 FYI, the naming rule of the WAV files is `[spk]#[song name]#[speech/sing identifier]#[sentence index].wav`. For example, a sample named `男3号#all we know#sing#14.wav` means a singing sample of song "all we know" from the 14th sentence, sung by the speaker "男3号".
 
