@@ -11,8 +11,8 @@ We provide our implementation and pretrained models in this repository.
 Visit our [demo page](https://alignsts.github.io/) for audio samples.
 
 ## News
-- May, 2023: **[AlignSTS](https://arxiv.org/abs/2305.04476) (ACL 2023)** released at Github.
-- May, 2023: **[AlignSTS](https://arxiv.org/abs/2305.04476) (ACL 2023)** accepted at ACL 2023 Findings.
+- May, 2023: AlignSTS released at Github.
+- May, 2023: AlignSTS accepted at ACL 2023 Findings.
 
 ## Quick Start
 We provide an example of how you can generate high-quality samples using AlignSTS.
